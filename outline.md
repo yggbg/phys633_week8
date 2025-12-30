@@ -12,6 +12,7 @@ Winter term 2026. Class will be held on Mondays and Wednesdays from 1-2.30pm in 
 
 The topic for the course, "Astrophysical Dynamics", has deliberately been chosen to be broad so that it overlaps with many different research areas. We will decide on a list of topics at the first meeting, depending on what people are most interested in, but some possible topics are:
 
+- The two-body problem
 - Resonant interactions between planets
 - The dynamics of black hole mergers
 - Dynamics of star clusters. Violent relaxation, core collapse
@@ -29,9 +30,13 @@ The topic for the course, "Astrophysical Dynamics", has deliberately been chosen
 
 ## Format
 
-We will discuss a different topic every week. The first class each week will be a short summary of the topic based on the reading, followed by discussion. The second class each week will be a numerical exercise that illustrates the topic.
+The course will be divided into two parts. In the first part (approximately 7 weeks), we will discuss a different topic each week. Class time will be devoted to discussion of the reading assignment and numerical exercises that illustrate the topic. We will divide into pairs and, starting from Week 4, each pair of students will take charge of one topic. You will be responsible, with the help of the course instructor, for assigning reading for the week, coming up with discussion questions and a numerical exercise.
 
-We will divide into pairs and, starting from Week 4, each pair of students will take charge of one or two weeks of the class (depending on the total number of students, TBD at the first meeting). You will be responsible, with the help of the course instructor, for assigning reading for the week, giving the summary and running the discussion, and for coming up with a numerical exercise.
+The second part of the course (approximately 4 weeks) will be devoted to individual projects. Class time will be used for updates and feedback on the project, with a final presentation in the last week of classes.
+
+## Assessment
+
+Your grade will be based on (1) weekly submissions (20%), (2) the materials prepared for your topic week (40%), and (3) the project (40%).
 
 ## Course coordinator
 
@@ -40,9 +45,13 @@ Prof. [Andrew Cumming](https://www.physics.mcgill.ca/~cumming/), andrew.cumming@
 
 ## Useful books and other resources
 
-- [REBOUND code](https://rebound.hanno-rein.de/)
-- [Dynamics and Astrophysics of Galaxies](https://galaxiesbook.org) by Jo Bovy (online book)
 - [Solar System Dynamics](https://mcgill.on.worldcat.org/search/detail/40857034?datasource=library_web&search_field=all_fields&search=true&database=all&scope=wz%3A12129&format=&clusterResults=on&func=find-b&q=&topLod=0&queryString=solar%20system%20dynamics&find=Go) by Murray and Dermott (McGill library ebook)
+- [Dynamics and Astrophysics of Galaxies](https://galaxiesbook.org) by Jo Bovy (online book)
+- [REBOUND code](https://rebound.hanno-rein.de/)
+  - [Example notebooks](https://github.com/hannorein/rebound/tree/main/ipython_examples)
+  - [YouTube tutorials](https://www.youtube.com/@reboundcode)
+  - [Units](https://rebound.hanno-rein.de/units/#using-g1)
+
 ## McGill policy statements
 
 McGill University values academic integrity. Therefore all students must understand the meaning and consequences of cheating, plagiarism and other academic oﬀences under the [Code of Student Conduct and Disciplinary Procedures](https://www.mcgill.ca/secretariat/files/secretariat/code_of_student_conduct_and_disciplinary_procedures.pdf) (approved by Senate on 29 January 2003) (See McGill's guide to academic honesty](https://www.mcgill.ca/students/srr/honest) for more information).
