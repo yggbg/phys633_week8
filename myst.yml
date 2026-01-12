@@ -15,6 +15,7 @@ project:
     - file: getting_started.md
     - file: Week1/week1.md
       children:
+      - file: Week1/week1_exercise.md
       - file: Week1/week1.ipynb
 site:
   template: book-theme
