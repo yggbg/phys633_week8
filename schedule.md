@@ -17,3 +17,5 @@
 | Mar 30 (Week 11) | Project week 3  ||
 | Apr 6 (Week 12) | Project presentations  ||
 | | | |
+
+[Sign up sheet](https://docs.google.com/spreadsheets/d/1soXe7dKL2s31A_DkT8pRN2mg6A9gc7O6MSCj8AySJgc/edit?usp=sharing)
