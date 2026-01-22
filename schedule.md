@@ -5,7 +5,7 @@
 | W Jan 7 | Organizational meeting | AC |
 | Jan 12 (Week 1)| Two-body problem | AC |
 | Jan 19 (Week 2) | Restricted three-body problem | AC |
-| Jan 26 (Week 3) | Tides, Rotation, and Shape; Resonant perturbations | Pair 1 |
+| Jan 26 (Week 3) | Tides, rotation, and shape; resonant perturbations | Pair 1 |
 | Feb 2 (Week 4) |  | Pair 2 |
 | Feb 9 (Week 5) |  | Pair 3 |
 | Feb 16 (Week 6) |  | Pair 4 |
