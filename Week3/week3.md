@@ -4,7 +4,7 @@
 
 Chapter 4 of [Murray and Dermott](https://mcgill.on.worldcat.org/search/detail/40857034?datasource=library_web&search_field=all_fields&search=true&database=all&scope=wz%3A12129&format=&clusterResults=on&func=find-b&q=&topLod=0&queryString=solar%20system%20dynamics&find=Go)
 
-Page 265 - 275 of [Philip J. Armitage](https://mcgill.on.worldcat.org/search/detail/1122692088?queryString=ti%3Aastrophysics%20of%20planet%20formation&bookReviews=off&newsArticles=off&idDetect=true&clusterResults=true&groupVariantRecords=false)
+Page 265 - 275 of [Astrophysics of planet formation](https://mcgill.on.worldcat.org/search/detail/1122692088?queryString=ti%3Aastrophysics%20of%20planet%20formation&bookReviews=off&newsArticles=off&idDetect=true&clusterResults=true&groupVariantRecords=false) by Phil Armitage
 
 ## Reading questions
 
