@@ -25,6 +25,7 @@ project:
     - file: Week3/week3.md
       children:
       - file: Week3/week3_exercise.md
+      - file: Week3/week3_part2_solutions.ipynb
     - file: Week4/week4.md
 
 
