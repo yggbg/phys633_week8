@@ -1,4 +1,4 @@
-# Week 4: Dark matter halos and equilibria of collisionless systems
+# Week 4: Dark Matter Halos and Equilibria of Collisionless Systems
 
 ## Reading
 
