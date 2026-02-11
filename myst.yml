@@ -37,7 +37,6 @@ project:
       - file: Week5/week5.ipynb
     - file: Week6/week6.md
 
->>>>>>> 53ed298 (Adds week 6 reading)
 site:
   template: book-theme
   #options:
