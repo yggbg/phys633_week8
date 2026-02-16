@@ -37,6 +37,8 @@ project:
       - file: Week5/week5.ipynb
       - file: Week5/week5_solutions.ipynb
     - file: Week6/week6.md
+      children:
+      - file: Week6/week6_exercises.md
 
 site:
   template: book-theme
