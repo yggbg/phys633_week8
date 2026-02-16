@@ -4,9 +4,6 @@ a) Given that $0\leq\chi\leq1$, recreate Figure 4.14. (Note that the event horiz
 
 
 b) Approximately derive the periapsis distance at high eccentricity ($e\approx 1$) in terms of the critical angular momentum $L_c$ using the semi-latus rectum in natural units (you may need to Google an equation for this). From this, recreate Figure 4.15, using equation 4.270.
-$r_p$ is given by $r_p = \frac{l}{1+e} \approx \frac{l}{2}$, $l$ is the semi-latus rectum.
-$l$ is given by $l = \frac{L_c^2}{GM} \approx L_c^2$ if $r_g$ is being divided out and we're using natural units.
-Therefore, $r_p \approx \frac{L_c^2}{2}$.
 
 
 # Part 2
