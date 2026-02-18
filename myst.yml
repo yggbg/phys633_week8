@@ -39,6 +39,7 @@ project:
     - file: Week6/week6.md
       children:
       - file: Week6/week6_exercises.md
+    - file: Week7/week7.md
 
 site:
   template: book-theme
