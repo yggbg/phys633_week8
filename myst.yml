@@ -38,7 +38,8 @@ project:
       - file: Week5/week5_solutions.ipynb
     - file: Week6/week6.md
       children:
-      - file: Week6/week6_exercises.md
+      - file: Week6/week6_exercises.md      
+      - file: Week6/Week_6_Solutions.ipynb
     - file: Week7/week7.md
 
 site:
