@@ -13,34 +13,49 @@ project:
     - file: outline.md
     - file: schedule.md
     - file: getting_started.md
-    - file: Week1/week1.md
+    - title: 'Week 1: The Two-Body Problem'
       children:
+      - file: Week1/week1.md
+        title: 'Week 1 Reading'
       - file: Week1/week1_exercise.md
       - file: Week1/week1.ipynb
       - file: Week1/week1_solutions.ipynb
-    - file: Week2/week2.md
+    - title: 'Week 2: The Restricted Three-Body Problem'
       children:
+      - file: Week2/week2.md
+        title: 'Week 2 Reading'
       - file: Week2/week2_exercise.md
       - file: Week2/week2_solutions.ipynb
-    - file: Week3/week3.md
+    - title: 'Week 3: Tides, Rotation and Shape; Resonant Perturbations'
       children:
+      - file: Week3/week3.md
+        title: 'Week 3 Reading'
       - file: Week3/week3_exercise.md
       - file: Week3/week3_part1_solutions.ipynb
       - file: Week3/week3_part2_solutions.ipynb
-    - file: Week4/week4.md
+    - title: 'Week 4: Dark Matter Halos and Equilibria of Collisionless Systems'
       children:
+      - file: Week4/week4.md
+        title: 'Week 4 Reading'
       - file: Week4/Exercise_dwarf_galaxies.ipynb
       - file: Week4/week4_solutions.ipynb
-    - file: Week5/week5.md
+    - title: 'Week 5: Dynamical Friction'
       children:
+      - file: Week5/week5.md
+        title: 'Week 5 Reading'
       - file: Week5/week5_exercise.md
       - file: Week5/week5.ipynb
       - file: Week5/week5_solutions.ipynb
-    - file: Week6/week6.md
+    - title: 'Week 6: Growth of Supermassive Black Holes'
       children:
+      - file: Week6/week6.md
+        title: 'Week 6 Reading'
       - file: Week6/week6_exercises.md      
       - file: Week6/Week_6_Solutions.ipynb
-    - file: Week7/week7.md
+    - title: 'Week 7: Chaos and the Long Term Dynamics of the Solar System'
+      children:
+      - file: Week7/week7.md
+        title: 'Week 7 Reading'
 
 site:
   template: book-theme
