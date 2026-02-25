@@ -57,6 +57,8 @@ project:
       - file: Week7/week7.md
         title: 'Week 7 Reading'
       - file: Week7/week7_exercise.md
+      - file: Week7/week7_solutions.ipynb
+
 site:
   template: book-theme
   #options:
