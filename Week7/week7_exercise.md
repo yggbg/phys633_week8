@@ -1,9 +1,8 @@
-# Week 6 Exercises
-
+# Week 7 Exercises
 
 ## Part 1: Chaos
 
-In this part of the exercise, we are going to investigate the obrbit of a zero-mass particle in a Sun-Jupiter system. You may follow the exercise in [Week 03 exercise](https://andrewcumming.github.io/phys633/week3-exercise/). Here we approximate the mass of Jupiter to be $\mu_2 = \mathcal{G}M = 10^{-3}$, so that the semi-major axis of Jupiter orbit is $a =1$. While Jupiter's orbit is known to be slightly eccentric, here we assume $e=0$.
+In this part of the exercise, we are going to investigate the obrbit of a zero-mass particle in a Sun-Jupiter system. The [Week 2 exercise](https://andrewcumming.github.io/phys633/week2-solutions/) on the restricted three-body problem may be useful as a starting point. Here we approximate the mass of Jupiter to be $\mu_2 = \mathcal{G}M = 10^{-3}$, so that the semi-major axis of Jupiter orbit is $a =1$. While Jupiter's orbit is known to be slightly eccentric, here we assume $e=0$.
 
 **Note:** In the following notations, $x$, $y$, $\dot{x}$, and $\dot{y}$ are quantities in the rotating frame of Sun-JUpiter system. **REBOUND** takes intital conditions in initial frame. Use *Murray* Eqn. (3.10) & Eqn. (3.11) to transform. And if you wan to transform back to rotating frame, which you will need in egenerating surface section plot, consult with Eqn.(3.30) & Eqn.(3.31). As you can see in (1), initial conditions matters to the orbital evolution.
 
