@@ -58,6 +58,10 @@ project:
         title: 'Week 7 Reading'
       - file: Week7/week7_exercise.md
       - file: Week7/week7_solutions.ipynb
+    - title: 'Week 8: Orbits in Disks and the Geometry of Resonance'
+      children:
+      - file: Week8/week8.md
+        title: 'Week 8 Reading'
 
 site:
   template: book-theme
