@@ -2,7 +2,7 @@
 
 ## Reading
 - Chapter 8.2 from [Murray and Dermott](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/55275B58F1A2B00FE0DB74E508E0EA68/9781139174817c8_p321-408_CBO.pdf/resonant_perturbations.pdf)
-- Chapter 9.1 and 9.2 from [Jo Bovy](https://galaxiesbook.org/chapters/II-03.-Orbits-in-Disks.html) 'Dynamics and Astrophysics of Galaxies'
+- Chapter 9.1 and 9.2 from [Jo Bovy](https://galaxiesbook.org/chapters/II-03.-Orbits-in-Disks.html)
 
 ## Reading questions
 
