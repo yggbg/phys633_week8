@@ -15,3 +15,7 @@ In this part of the exercise, we are going to investigate the orbit of a star in
 5) Finally, let's tweak the dark matter content of the Milky Way on top of the SMBH. You can do so by applying the following transformation: MWPotential2014[2]*= 1.5 and do the same as 3). Is this a more accurate representation of the Milky Way by comparing your results with the literature? What's the escape velocity required at the location of the solar system? What's the lowest energy required to eject the Sun out of the Milky Way within 10 dynamical times?
 
 6) Seperate the potential into a) the z-direction component b) the rotation plane. From the reading in section 9.2, find $R_{max}$, $R_{min}$, and $R_{median}$ curves. You can use toLinear() and toPlanar() methods for the orbit.
+
+## Part 2: Geometry of Resonance
+
+7) Write a script where the orbit of any resonance of the form $p:q$ can be plotted. What issue do you encounter when trying to reproduce the results from the reading? Discuss why this happens. You can use the solution code from last week's as a starter.
